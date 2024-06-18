@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/s_hreya173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_hreya173" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/s-hreya173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s-hreya173" height="30" width="40" /></a>
+<a href="https://x.com/S_hreya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="S_hreya17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-gupta-a783b9270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya gupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s_hreya173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_hreya173" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyaa173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyaa173" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/msshreolxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshreolxx" height="30" width="40" /></a>
 </p>
