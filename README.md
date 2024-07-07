@@ -1,9 +1,8 @@
 ![](https://github.com/Shreyaa173/Shreyaa173/blob/main/code.jpg)
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 <h3 align="center">A passionate Computer Science student from Delhi</h3>
-![](https://github.com/Shreyaa173/Shreyaa173/blob/main/character-typing.gif)
-<!-- <img  align = "right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif]">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p> -->
+<img  align = "right" alt="coding" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif]](https://www.bing.com/images/search?view=detailV2&ccid=qdAW1TjC&id=E2F524DDD39E0306EBFF7FBAA4C844FFC8770668&thid=OIP.qdAW1TjCN57h1lbuuzvchgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1857592%2fscreenshots%2f3848396%2fcharacter-typing.gif&exph=600&expw=800&q=coding+gif+girl&simid=608034956057462038&FORM=IRPRST&ck=23C9A6F4DD320D75B8EBA32BF6BBBFA1&selectedIndex=6&itb=0)">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p>
 
 - 🌱 I’m currently learning **DSA, Frontend development, Ethical hacking**
 
