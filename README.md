@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 <h3 align="center">A passionate Computer Science student from Delhi</h3>
-<img  align = "right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.a9d016d538c2379ee1d656eebb3bdc86?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1857592%2fscreenshots%2f3848396%2fcharacter-typing.gif&ehk=CtxqPivtSWbVqkiSSht%2butKZqeTbG0HI7FQzSb3yhmE%3d" alt="shreyaa173" /> </p>
+<img  align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/0667c5b95670fa92e44480b094f5e8a000c10695d4e1a4be800c8fe343b9590a/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="shreyaa173" /> </p>
 
 - 🌱 I’m currently learning **DSA, Frontend development, Ethical hacking**
 
