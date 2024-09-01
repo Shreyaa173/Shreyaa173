@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **DSA, Frontend development, Ethical hacking**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shreya-gupta-a783b9270/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/shreya-gupta-a783b9270/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1epZa6b8lL5QJctDjZtNePBHUmEz4ESJT/view?usp=sharing](https://drive.google.com/file/d/1epZa6b8lL5QJctDjZtNePBHUmEz4ESJT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-DOO7BJk1Q-gjxiV77b2MFZEcN3VAQo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
