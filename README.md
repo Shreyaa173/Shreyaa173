@@ -5,13 +5,11 @@
 
 <img  align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/0667c5b95670fa92e44480b094f5e8a000c10695d4e1a4be800c8fe343b9590a/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="shreyaa173" /> </p>
 
-- 🔭 I’m currently working on [CodeBook](https://github.com/Shreyaa173/Code-Book)
-
-- 🌱 I’m currently learning **DSA, Backend development and Machine Learning**
+- 🔭 I’m currently learning **DSA, Backend development and Machine Learning**
 
 - 📫 How to reach me **ms.shreya17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s-DOO7BJk1Q-gjxiV77b2MFZEcN3VAQo/view](https://drive.google.com/file/d/1s-DOO7BJk1Q-gjxiV77b2MFZEcN3VAQo/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1s-DOO7BJk1Q-gjxiV77b2MFZEcN3VAQo/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
