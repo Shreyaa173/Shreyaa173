@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ms.shreya17@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RtkkMiJNb46DYIMgbxEkbJFE_qEpmVK-/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HG8vPZ26YqlD5W5Pq2bttk1tuNG58p91/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
