@@ -51,8 +51,6 @@
 </p>
 
 ## Top Repositories
-# GitHub Stats and Contributions
-
 <!-- Table for aligning stats and streak side by side -->
 <div align="center">
 
