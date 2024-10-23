@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyaa173&theme=darkhub" alt="shreyaa173" />
-  </a> 
-</p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 <img  align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/0667c5b95670fa92e44480b094f5e8a000c10695d4e1a4be800c8fe343b9590a/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="shreyaa173" /> </p>
 
@@ -35,7 +29,52 @@
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![Shreyaa173's Stats](https://github-readme-stats.vercel.app/api?username=Shreyaa173&theme=dark&show_icons=true&hide_border=false&count_private=true)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaa173&show_icons=true&locale=en&layout=compact&theme=dark" alt="shreyaa173" /></p>
+# GitHub Stats and Contributions
+
+<!-- Table for aligning stats and streak side by side -->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreyaa173&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Shreyaa173's GitHub Stats" />
+    </td>
+    <td>
+      <!-- GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyaa173&theme=dark&hide_current_streak=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<!-- Most Used Languages Section -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyaa173&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+## Top Repositories
+# GitHub Stats and Contributions
+
+<!-- Table for aligning stats and streak side by side -->
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 400px; background-color: #0d1117;">
+        <!-- Code-Book Card -->
+        <a href="https://github.com/shreyaa/code-book" style="text-decoration: none;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaa173&repo=code-book&theme=dark" 
+            alt="Code-Book Repository" />
+        </a>
+      </td>
+      <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 400px; background-color: #0d1117;">
+        <!-- AgriPredict Card -->
+        <a href="https://github.com/shreyaa/AgriPredict" style="text-decoration: none;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaa173&repo=AgriPredict&theme=dark" 
+            alt="AgriPredict Repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
