@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/Shreyaa173/Shreyaa173/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
