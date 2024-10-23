@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaa173" alt="shreyaa173" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shreyaa173&theme=darkhub" alt="shreyaa173" />
+  </a> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 <img  align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/0667c5b95670fa92e44480b094f5e8a000c10695d4e1a4be800c8fe343b9590a/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="shreyaa173" /> </p>
