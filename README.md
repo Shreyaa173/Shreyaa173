@@ -59,17 +59,18 @@
     <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 400px; background-color: #0d1117;">
       <!-- Code-Book Card -->
       <a href="https://github.com/Shreyaa173/Code-Book" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaa173&repo=Code-Book&theme=dark&show_owner=true" alt="Code-Book Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaa173&repo=Code-Book&theme=dark&show_owner=true&v=2" alt="Code-Book Repository" />
       </a>
     </td>
     <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 10px; width: 400px; background-color: #0d1117;">
       <!-- AgriPredict Card -->
       <a href="https://github.com/Shreyaa173/AgriPredict" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaa173&repo=AgriPredict&theme=dark&show_owner=true" alt="AgriPredict Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaa173&repo=AgriPredict&theme=dark&show_owner=true&v=2" alt="AgriPredict Repository" />
       </a>
     </td>
   </tr>
 </table>
+
 
 </div>
 
