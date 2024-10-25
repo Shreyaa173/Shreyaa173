@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
-<img  align = "right" alt="coding" width="300" height="250" src="https://github.com/Shreyaa173/Shreyaa173/blob/main/code-coding.gif" alt="shreyaa173" /> </p>
+<img  align = "right" alt="coding" width="300" height="240" src="https://github.com/Shreyaa173/Shreyaa173/blob/main/code-coding.gif" alt="shreyaa173" /> </p>
 
 - 🔭 I’m currently learning **DSA, Backend development and Machine Learning**
 
