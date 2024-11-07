@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ms.shreya17@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18j9pHSUdOb3mJoV6rFWHT1UprGTrKg6J/view?usp=sharing)
-
 <h3 align="left"> 🔗 Connect with me:</h3>
 <p align="left">
 </p>
