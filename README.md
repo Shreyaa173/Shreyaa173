@@ -90,15 +90,15 @@
     </td>
     <td>
       <!-- GitHub Streak -->
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shreyaa173&theme=dark" alt="GitHub Streak" /></a>
+    <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyaa173&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    </p>
     </td>
   </tr>
 </table>
 
 <!-- Most Used Languages Section -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyaa173&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+
 
 ## Top Repositories
 <!-- Table for aligning stats and streak side by side -->
