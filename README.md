@@ -77,8 +77,6 @@
   </a>
 </p>
 
-
-
 # GitHub Stats and Contributions
 
 <!-- Table for aligning stats and streak side by side -->
