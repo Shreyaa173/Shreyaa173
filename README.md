@@ -36,7 +36,7 @@
 ### IDEs and Tools
 [![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman,notion,github)](https://github.com/Shreyaa173)
 
-# GitHub Stats and Contributions
+## GitHub Stats and Contributions
 
 <!-- Table for aligning stats and streak side by side -->
 <table>
