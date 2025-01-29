@@ -1,15 +1,18 @@
 ![Banner Image](https://github.com/Shreyaa173/Shreyaa173/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">🚀 Passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaa173" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyaa173&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
-<img  align = "right" alt="coding" width="300" height="200" src="https://github.com/Shreyaa173/Shreyaa173/blob/main/code-coding.gif" alt="shreyaa173" /> </p>
+<img align="right" alt="Coding" width="300" height="200" src="https://github.com/Shreyaa173/Shreyaa173/blob/main/code-coding.gif" />
 
-- 🔭 I’m currently learning **DSA, Backend development and Machine Learning**
-
-- 📫 How to reach me **ms.shreya17@gmail.com**
+### About Me  
+🔭 Currently exploring **DSA and Machine Learning**  
+🌱 Passionate about **Web Development, Machine Learning, and AI**  
+📫 Reach me at **ms.shreya17@gmail.com**  
+💬 Ask me about **Web Development, Machine Learning, and Open Source**  
 
 <h3 align="left"> 🔗 Connect with me:</h3>
 <p align="left">
