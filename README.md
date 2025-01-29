@@ -28,7 +28,7 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css)](https://github.com/Shreyaa173)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=git,react,nodejs,bootstrap,tailwindcss,django,express,sklearn,flask,vite)](https://github.com/Shreyaa173)
+[![My Development](https://skillicons.dev/icons?i=git,react,nextjs,nodejs,bootstrap,tailwindcss,django,express,sklearn,flask,vite)](https://github.com/Shreyaa173)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify,googlecloud,replit)](https://github.com/Shreyaa173)
