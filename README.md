@@ -9,10 +9,9 @@
 <img align="right" alt="Coding" width="300" height="200" src="https://github.com/Shreyaa173/Shreyaa173/blob/main/code-coding.gif" />
 
 ### About Me  
-<p>🔭 Currently exploring **DSA and Machine Learning**  </p>
-<p>🌱 Passionate about **Web Development, Machine Learning, and AI**  </p>
-<p>📫 Reach me at **ms.shreya17@gmail.com**  </p>
-<p>💬 Ask me about **Web Development, Machine Learning, and Open Source** </p>
+<p>🔭 Currently exploring <b>DSA and Machine Learning</b>  </p>
+<p>🌱 Passionate about <b>Web Development, Machine Learning, and AI</b> </p>
+<p>📫 Reach me at <b>ms.shreya17@gmail.com</b>  </p>
 
 <h3 align="left"> 🔗 Connect with me:</h3>
 <p align="left">
