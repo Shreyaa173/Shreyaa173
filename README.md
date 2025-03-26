@@ -39,6 +39,9 @@
 [![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman,notion,github)](https://github.com/Shreyaa173)
 
 ## GitHub Stats and Contributions
+<div style="display: flex; justify-content: center;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shreyaa173&theme=dark" alt="GitHub Streak">
+</div>
 
 <!-- Table for aligning stats and streak side by side -->
 <table>
@@ -57,8 +60,6 @@
 </table>
 
 <!-- Most Used Languages Section -->
-
-
 ## Top Repositories
 <!-- Table for aligning stats and streak side by side -->
 <div align="center">
